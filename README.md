@@ -178,7 +178,7 @@ System Design         ████████████░░░░░░░�
 ### `🌐 CONNECT.link`
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rajeev260806-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d&color=00ffff)](https://github.com/Rajeev260806)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d&color=8b00ff)](https://linkedin.com/in/Rajeev260806)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d&color=8b00ff)](https://www.linkedin.com/in/rajeev-ganesan-1370b7260/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6C37?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d0d0d&color=00ffff)](https://github.com/Rajeev260806)
 
 </div>
